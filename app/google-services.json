@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "983309323664",
+    "project_id": "space-spotify-clone",
+    "storage_bucket": "space-spotify-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983309323664:android:63316f320b6b4b13ea3715",
+        "android_client_info": {
+          "package_name": "com.plcoding.spotifycloneyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983309323664-kv56c8lv4csdl05agdh8n77kj4cp1pu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyhvS4AVdNctdoZrBYf0phOkUzgH6iXvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983309323664-kv56c8lv4csdl05agdh8n77kj4cp1pu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983309323664:android:30cd49bb26a16843ea3715",
+        "android_client_info": {
+          "package_name": "com.shubham.space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983309323664-kv56c8lv4csdl05agdh8n77kj4cp1pu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyhvS4AVdNctdoZrBYf0phOkUzgH6iXvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983309323664-kv56c8lv4csdl05agdh8n77kj4cp1pu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
